@@ -3,11 +3,6 @@ import './Contact.css';
 import PropTypes from 'prop-types';
 
 
-const online = false;
-const name = "Katherine Lewis";
-const avatar = "https://randomuser.me/api/portraits/women/95.jpg";
-
-
 function Contact(props) {
   return (
     <figure className="Contact">
