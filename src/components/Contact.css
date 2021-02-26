@@ -5,6 +5,8 @@
   width: 220px;
   display: flex;
   align-items: center;
+  margin: 0;
+
 }
 
 /* Contact image */
